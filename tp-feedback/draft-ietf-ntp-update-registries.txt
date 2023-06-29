@@ -228,9 +228,9 @@ Table of Contents
 
    The columns are defined as follows:
 
-   *  ID (required): a four-byte value padded on the right with all-
-      bytes zero if necessary.  Each value must be an ASCII uppercase
-      letter or minus sign
+   *  ID (required): a four-byte value padded on the right with all zero
+      bytes if necessary.  Each value must be an ASCII uppercase letter
+      or minus sign
 
    *  Clock source (required): A brief text description of the ID
 
@@ -249,9 +249,9 @@ Table of Contents
 
    The columns are defined as follows:
 
-   *  ID (required): a four-byte value padded on the right with all-
-      bytes zero if necessary.  Each value must be an ASCII uppercase
-      letter or minus sign.
+   *  ID (required): a four-byte value padded on the right with all zero
+      bytes if necessary.  Each value must be an ASCII uppercase letter
+      or minus sign.
 
    *  Meaning source (required): A brief text description of the ID.
 
